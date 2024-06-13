@@ -1,2 +1,6 @@
 welcome to project4
 hi project4
+start project4
+pause project4
+stop project4
+terminate project4
