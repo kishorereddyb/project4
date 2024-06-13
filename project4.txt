@@ -4,3 +4,6 @@ start project4
 pause project4
 stop project4
 terminate project4
+
+launch project4
+hello project4
